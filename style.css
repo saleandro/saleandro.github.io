@@ -56,6 +56,10 @@ a:hover {
     text-decoration: underline;
 }
 
+a.active {
+    color: #EDBF67;
+}
+
 .group:before,
 .group:after {
     content:"";

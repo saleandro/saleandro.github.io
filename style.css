@@ -93,6 +93,13 @@ a.active {
     width: 15.33%;
 }
 
+.ps {
+    text-align: right;
+    font-style: italic;
+    font-size: smaller;
+    margin-top: 10px;
+}
+
 
 @media only screen and (max-width: 800px) {
     body {

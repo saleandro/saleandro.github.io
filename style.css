@@ -101,6 +101,10 @@ a.active {
     margin-top: 10px;
 }
 
+footer {
+    font-size: smaller;
+    margin-top: 10px;
+}
 
 @media only screen and (max-width: 800px) {
     body {

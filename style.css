@@ -106,6 +106,10 @@ footer {
     margin-top: 10px;
 }
 
+.lists p {
+    padding-bottom: 30px;
+}
+
 @media only screen and (max-width: 800px) {
     body {
         padding: 10px 20px 10px 20px;
